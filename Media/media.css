@@ -1,0 +1,370 @@
+@media (max-width:580px){
+.container{
+    display: block;
+    max-width: 1140px;
+    flex-wrap: wrap;
+}
+.nav-bg{
+    width:100%;
+    flex-wrap: wrap;
+}
+.phone-number p{
+    width: 100px;
+}
+.fa-envelope ,.fa-phone{
+    margin-left: 10px;
+    margin-top: 12px;
+}
+.mail-id p ,.phone-number{
+    margin-top: 12px;
+}
+.social-media{
+    margin-left: 50px;
+    flex-wrap: wrap;
+}
+.logo{
+    margin-left: 20px;
+    flex-wrap: wrap;
+}
+
+.Contact-box p button {
+    display: block;
+}
+.togle{
+    display: block;
+    position: absolute;
+    left: 450px;
+    top: 65px;
+    font-size: 20px;   
+}
+
+.Contact-box{
+    position: absolute;
+    top: 400px;
+    left: -10px;
+    display: none;
+}
+
+.nav-bar-1{
+    display: none;
+    position: absolute;
+    top: 88px;
+    left: 1px;
+    background-color: whitesmoke;
+    height: 400px;
+    width: 561px;     
+}
+
+.background-image{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    flex-wrap: wrap;
+}
+
+.heading  p{
+    margin-left: 120px;   
+}
+
+.background-image span{
+    font-size: 42px;
+    float: left;
+    margin-left: 80px;
+}
+
+.Get-Started{
+    margin-left: 135px;
+}
+
+.counter{
+    display: block;
+}
+
+.counter-background-image{
+    margin-top:1150px;
+    height: 830px;
+}
+
+.happy-client p{
+    margin-left: 60px;
+    font-size: 40px;
+}
+
+.happy-client h3{
+    margin-left: 170px;
+}
+
+.Lines-of-code p{
+    margin-left: 180px;
+    font-size: 40px;
+}
+
+.Lines-of-code span{
+    margin-left: 170px;
+}
+
+.Total-Downloads p{
+    margin-left: 180px;
+    font-size: 40px;
+}
+
+.Total-Downloads span{
+    margin-left: 160px;
+}
+
+.YouTube-Subscribers p{
+    margin-left: 180px;
+    font-size: 40px;
+}
+
+.YouTube-Subscribers span{
+    margin-left: 140px;
+}
+
+.our-services p{
+    margin-left: 200px;
+}
+
+.our-services span{
+    margin-left: 180px;
+    font-size: 30px;
+}
+
+.our-services h4{
+    margin-left: 1px;
+}
+
+.our-services-box{
+    display: block;
+}
+
+.background-color-white {
+    margin-left: 50px;
+}
+
+
+.Logo-Designing{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.Buisness-consulting{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.work p{
+    margin-left: 250px;
+}
+
+.work span{
+    margin-left: 130px;
+    font-size: 30px;
+}
+
+.work h4{
+    margin-left: 20px;
+}
+
+.work-image .work-image-1{
+    margin-top: 50px;
+    max-width: 560px;
+    position: absolute;
+}
+
+.work-image p{
+    position: relative;
+    top: 450px;
+    font-size: 25px;
+    width: 235px;
+}
+
+.work-image span{
+    margin-top: 50px;
+}
+
+.work-image h4{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Team p{
+    margin-left: 250px;
+}
+
+.Team span{
+    margin-left: 130px;
+    font-size: 30px;
+}
+
+.Team h4{
+    margin-left: 20px;
+}
+
+.Marvin-McKinney-Box{
+    display: block;
+}
+
+.Marvin-McKinney img{
+    height: 501px;
+    width: 516px;
+    margin-left: 20px;
+}
+
+.Marvin-McKinney p{
+    margin-left: 200px;
+}
+
+.Marvin-McKinney span{
+    margin-left: 200px;
+}
+
+.Kathryn-Murphy img{
+    height: 501px;
+    width: 516px;
+    margin-left: 20px;
+}
+
+.Kathryn-Murphy p{
+    margin-left: 200px;
+}
+
+.Kathryn-Murphy span{
+    margin-left: 200px;
+}
+
+.Darrell-Steward img{
+    height: 501px;
+    width: 516px;
+    margin-left: 20px;
+}
+
+.Darrell-Steward p{
+    margin-left: 200px;
+}
+
+.Darrell-Steward span{
+    margin-left: 200px;
+}
+
+.review-background-image{
+    height: 615px;
+    width: 527px;
+}
+
+.Review img{
+    margin-left: 210px;
+}
+
+.Review p{
+    margin-left: 180px;
+}
+
+.Review span{
+    margin-left: 150px;
+}
+
+.Review h4{
+    margin-left: 5px;
+    width: 520px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.star{
+    margin-top: 20px;
+    margin-left: 210px;
+}
+
+.blog p{
+    margin-left: 250px;    
+}
+
+.blog span{
+    font-size: 30px;
+    margin-left: 190px;
+}
+
+.blog h4{
+    font-size: 16px;
+    margin-left: 20px;
+    width: 520px;
+    font-weight: normal;
+}
+
+.web-side {
+    display: block;
+}
+
+.web-design-box{
+    width: 515px;
+    margin-left: 25px;
+    margin-top: 40px;
+    height: 550px;
+}
+
+.web-design-box img{
+    height: 339px;
+    width: 516px;
+}
+
+.web-design-box a{
+    margin-top: 320px;
+}
+
+.Programming-box{
+    width: 515px;
+    margin-left: 25px;
+    margin-top: 40px;
+    height: 550px;
+}
+
+.Programming-box img{
+    height: 339px;
+    width: 516px;
+}
+
+.Programming-box a{
+    margin-top: 320px;
+}
+
+.Marketing-box{
+    width: 515px;
+    margin-left: 25px;
+    margin-top: 40px;
+    height: 550px;
+}
+
+.Marketing-box img{
+    height: 339px;
+    width: 516px;
+}
+
+.Marketing-box a{
+    margin-top: 320px;
+}
+
+.footer-background-image{
+    height:550px;
+    width:562px;
+}
+
+.Footer-heading{
+    margin-left: 10px;
+    width: 520px;
+}
+
+.social-media-accounts i:hover{
+    color: #ff4d29;
+}
+
+}
